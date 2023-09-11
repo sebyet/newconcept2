@@ -4,7 +4,7 @@ import Paragraph from "./Base/Paragraph";
 const Footer = ({ }) => {
   return (
     <><div className="flex flex-col justify-center items-center w-full h-96 gap-10">
-      <H1>Drop us a Lines</H1>n
+      <H1>Drop us a Line</H1>n
       <div className="flex gap-5">
         <div className="flex gap-1 items-baseline">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
