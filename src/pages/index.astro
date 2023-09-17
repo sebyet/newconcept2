@@ -7,20 +7,11 @@ import H1 from '@/components/Base/H1';
 import Paragraph from '@/components/Base/Paragraph';
 import { Button } from '@/components/Base/Button';
 import USPCard from '@/components/USPCard';
+import Header from '@/components/Header';
 ---
 
 <Layout title="Welcome to Astro.">
-	<main transition:animate="slide" class="flex min-h-screen flex-col items-center justify-between p-24">
-		<BackgroundImage>
-			<div class="flex flex-col justify-between items-end w-full h-screen z-auto p-16">
-				<div class="flex flex-col gap-5">
-					<H1>test</H1>
-					<div class="flex gap-5">
-					  test
-					</div>
-				</div>
-			</div>
-		</BackgroundImage>
+		<Header/>
 		<Background>
 			<H1>test</H1>
 			<Paragraph>This is a test</Paragraph>
@@ -36,5 +27,5 @@ import USPCard from '@/components/USPCard';
 			<Paragraph>This is a test</Paragraph>
 			<Button>Button</Button>
 		</Background>
-	</main>
+	
 </Layout>

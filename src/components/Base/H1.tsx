@@ -6,7 +6,7 @@ interface MyComponentProps {
 
 const H1: React.FC<MyComponentProps> = ({ children }) => {
   return (
-    <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
+    <h1 className="text-white scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
       {children}
     </h1>
   );
