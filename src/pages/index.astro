@@ -2,30 +2,19 @@
 import BackgroundImage from '@/components/BackgroundImage';
 import Layout from '../layouts/Layout.astro';
 import '@/styles/globals.css'
-import Background from '@/components/Background';
 import H1 from '@/components/Base/H1';
 import Paragraph from '@/components/Base/Paragraph';
 import { Button } from '@/components/Base/Button';
-import USPCard from '@/components/USPCard';
 import Header from '@/components/Header';
+import H2 from '@/components/Base/H2';
+import Services from '@/components/Services';
 ---
+
+
 
 <Layout title="Welcome to Astro.">
 		<Header/>
-		<Background>
-			<H1>test</H1>
-			<Paragraph>This is a test</Paragraph>
-			<Button>Button</Button>
-		</Background>
-		<Background white>
-			<H1>test</H1>
-			<Paragraph>This is a test</Paragraph>
-			<Button>Button</Button>
-		</Background>
-		<Background>
-			<H1>test</H1>
-			<Paragraph>This is a test</Paragraph>
-			<Button>Button</Button>
-		</Background>
-	
+		<Services/>
+		
+		
 </Layout>

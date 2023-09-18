@@ -1,13 +1,16 @@
-import React, { ReactNode } from 'react';
+import React, { type ReactNode } from 'react';
 
 interface MyComponentProps {
   children: ReactNode;
+  className?: string; // optional className prop
 }
 
-const Paragraph: React.FC<MyComponentProps> = ({ children }) => {
-    return <p className={"leading-7"}>
-    {children}
-  </p>;
+const Paragraph: React.FC<MyComponentProps> = ({ children, className }) => {
+  return (
+    <p className={`leading-7 ${className}`}>
+      {children}
+    </p>
+  );
 };
 
 export default Paragraph;

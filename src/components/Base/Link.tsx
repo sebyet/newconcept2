@@ -1,5 +1,4 @@
-import React, { ReactNode } from 'react';
-import NextLink from 'next/link';
+import React, { type ReactNode } from 'react';
 
 interface MyComponentProps {
   children: ReactNode;
@@ -8,9 +7,9 @@ interface MyComponentProps {
 
 const Link: React.FC<MyComponentProps> = ({ children, href }) => {
   return (
-    <NextLink href={href} className={"hover:underline 'text-blue-600"}>
+    <a href={href} className={"hover:underline 'text-blue-600"}>
       {children}
-    </NextLink>
+    </a>
   );
 };
 
