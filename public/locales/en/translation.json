@@ -1,0 +1,20 @@
+{
+    "site": {
+      "title": "My awesome website!",
+      "description": "Here is the description of my awesome website!"
+    },
+    "home": {
+      "header": {
+        "digital": "Unlocking Digital Potentials",
+        "customer": "Crafting Customer Experiences",
+        "business": "Elevating Business Concepts",
+        "customerJourney": "Customer Journey",
+        "ideaGeneration": "Idea Generation",
+        "mvpDevelopment": "MVP Development",
+        "agileTransformation": "Agile Transformation",
+        "businessModelInnovation": "Business Model Innovation",
+        "remoteWorkingCollaboration": "Remote working Collaboration"
+      }
+    }
+  }
+  

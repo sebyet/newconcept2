@@ -1,0 +1,20 @@
+{
+    "site": {
+      "title": "Mon site génial !",
+      "description": "Voici la description de mon site génial !"
+    },
+    "home": {
+      "header": {
+        "digital": "Débloquer les Potentiels Numériques",
+        "customer": "Créer des Expériences Client Exceptionnelles",
+        "business": "Élever les Concepts d'Affaires",
+        "customerJourney": "Parcours Client",
+        "ideaGeneration": "Génération d'Idées",
+        "mvpDevelopment": "Développement de MVP",
+        "agileTransformation": "Transformation Agile",
+        "businessModelInnovation": "Innovation du Modèle d'Affaires",
+        "remoteWorkingCollaboration": "Collaboration en Télétravail"
+      }
+    }
+  }
+  
