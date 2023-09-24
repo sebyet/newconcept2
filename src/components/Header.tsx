@@ -7,19 +7,19 @@ const Header = () => {
   return (
     <div className='container mx-auto px-4'>
       <div className='flex flex-wrap -mx-4'>
-        <div className='w-full lg:w-5/12 px-4 mb-6 lg:mb-0'>
+        <div className='w-full lg:w-6/12 px-4 mb-6 lg:mb-0'>
           <div className='flex flex-col h-full'>
             <div className='py-10 px-10 h-full flex flex-col gap-1 bg-white rounded-2xl'>
-              <h1 className='font-heading text-3xl sm:text-5xl mb-4 tracking-tighter'>
+              <h1 className='font-heading text-5xl sm:text-7xl mb-4 tracking-tighter'>
                 {t("home.header.digital")}
               </h1>
-              <h1 className='font-heading text-3xl sm:text-5xl mb-4 tracking-tighter'>
+              <h1 className='font-heading text-5xl sm:text-7xl mb-4 tracking-tighter'>
                 {t("home.header.customer")}
               </h1>
-              <h1 className='font-heading text-3xl text-blue-500 sm:text-5xl mb-4 tracking-tighter'>
+              <h1 className='font-heading text-blue-500 text-5xl sm:text-7xl mb-4 tracking-tighter'>
                 {t("home.header.business")}
               </h1>
-              <div className="mt-auto flex gap-2 flex-wrap">
+              <div className="mt-10 flex gap-2 flex-wrap">
                 <span className='relative inline-block mb-3 py-2 px-3 text-sm text-black leading-none bg-gray-100 rounded-full'>
                   {t("home.header.customerJourney")} {/* Replace static text with translation key */}
                 </span>
@@ -42,7 +42,7 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className='w-full lg:w-7/12 px-4'>
+        <div className='w-full lg:w-6/12 px-4'>
           <div className='relative h-full'>
             <img
               className='block h-full w-full rounded-2xl object-cover'

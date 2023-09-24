@@ -1,5 +1,3 @@
-import H1 from './Base/H1';
-import { Button } from './Base/Button';
 import logo from '../images/logo_newconcept.png'
 
 const Navbar = () => {

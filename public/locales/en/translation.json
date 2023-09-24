@@ -1,20 +1,38 @@
 {
-    "site": {
-      "title": "My awesome website!",
-      "description": "Here is the description of my awesome website!"
-    },
-    "home": {
-      "header": {
-        "digital": "Unlocking Digital Potentials",
-        "customer": "Crafting Customer Experiences",
-        "business": "Elevating Business Concepts",
-        "customerJourney": "Customer Journey",
-        "ideaGeneration": "Idea Generation",
-        "mvpDevelopment": "MVP Development",
-        "agileTransformation": "Agile Transformation",
-        "businessModelInnovation": "Business Model Innovation",
-        "remoteWorkingCollaboration": "Remote working Collaboration"
-      }
+  "site": {
+    "title": "My awesome website!",
+    "description": "Here is the description of my awesome website!"
+  },
+  "home": {
+    "header": {
+      "digital": "Unlocking Digital Potentials",
+      "customer": "Crafting Customer Experiences",
+      "business": "Elevating Business Concepts",
+      "customerJourney": "Customer Journey",
+      "ideaGeneration": "Idea Generation",
+      "mvpDevelopment": "MVP Development",
+      "agileTransformation": "Agile Transformation",
+      "businessModelInnovation": "Business Model Innovation",
+      "remoteWorkingCollaboration": "Remote working Collaboration"
     }
+  },
+  "services": {
+    "title": "Services",
+    "digital": "Unlocking Digital Potentials",
+    "digitalDescription": "We fuse continuous innovation, agile methodology, and a user-centric approach, using the latest tech and strategies to help you stay ahead in the digital race.",
+    "customer": "Crafting Customer Experiences",
+    "customerDescription": "Utilizing market insight, creativity, and project leadership, we craft customer experiences that propel your company forward.",
+    "business": "Elevating Business Concepts",
+    "businessDescription": "We harness innovation, global insight, and unwavering commitment to take business ideas to new heights and drive success."
+  },
+  "callToAction": {
+    "title": "Ready to Transform? 🚀 Join us on the journey to innovation today!"
+  },
+  "contact": {
+    "title": "Let's Talk",
+    "description": "Feel free to reach out to us for any inquiries or questions you may have.",
+    "chat": "Chat with Us",
+    "call": "Call Us",
+    "visit": "Visit Us"
   }
-  
+}

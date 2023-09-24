@@ -1,5 +1,7 @@
+import { useTranslation } from "react-i18next";
 
 const CallToAction = () =>  {
+  const { t } = useTranslation(); // Initialize the useTranslation hook
   return (
     <>
     <section className='py-12 md:py-24 bg-black'>
@@ -8,16 +10,9 @@ const CallToAction = () =>  {
         <div className='flex flex-wrap -mx-4 items-center'>
           <div className='w-full lg:w-1/2 px-4 mb-12 lg:mb-0'>
             <div className='max-w-lg xl:max-w-none'>
-              <span className='block mb-4 text-sm text-white'>
-                Lorem Ipsum
-              </span>
-              <h1 className='font-heading text-5xl md:text-6xl 2xl:text-8xl text-white tracking-tighter mb-8'>
-                Share your travels with friends &amp; family
+              <h1 className='font-heading text-3xl md:text-5xl 2xl:text-6xl text-white tracking-tighter mb-8'>
+                {t("callToAction.title")} {/* Replace static text with translation key */}
               </h1>
-              <p className='xl:text-lg text-coolGray-500'>
-                It is a long established fact that a reader will be
-                distracted by the
-              </p>
             </div>
           </div>
           <div className='w-full lg:w-1/2 px-4'>

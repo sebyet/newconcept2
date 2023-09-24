@@ -15,6 +15,25 @@
         "businessModelInnovation": "Innovation du Modèle d'Affaires",
         "remoteWorkingCollaboration": "Collaboration en Télétravail"
       }
+    },
+    "services": {
+      "title": "Services",
+      "digital": "Libération des Potentiels Numériques",
+      "digitalDescription": "Nous fusionnons l'innovation continue, la méthodologie agile et une approche centrée sur l'utilisateur, en utilisant les dernières technologies et stratégies pour vous aider à rester en tête de la course numérique.",
+      "customer": "Création d'Expériences Client",
+      "customerDescription": "En utilisant des informations du marché, la créativité et un leadership de projet, nous créons des expériences client qui propulsent votre entreprise vers l'avant.",
+      "business": "Élévation des Concepts d'Entreprise",
+      "businessDescription": "Nous exploitons l'innovation, la vision globale et un engagement inébranlable pour faire passer les idées d'entreprise à de nouveaux sommets et favoriser le succès."
+    },
+    "callToAction": {
+      "title": "Prêt à Transformer ? 🚀 Rejoignez-nous dans le voyage vers l'innovation aujourd'hui !"
+    },
+    "contact": {
+      "title": "Parlons-en",
+      "description": "N'hésitez pas à nous contacter pour toute question ou demande de renseignements.",
+      "chat": "Discutez avec Nous",
+      "call": "Appelez Nous",
+      "visit": "Visitez Nous"
     }
   }
   
