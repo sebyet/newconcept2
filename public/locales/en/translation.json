@@ -34,5 +34,25 @@
     "chat": "Chat with Us",
     "call": "Call Us",
     "visit": "Visit Us"
+  },
+  "digitalKeyPoints": {  
+      "continuousInnovation": {
+        "title": "Continuous Innovation",
+        "description": "Continuous innovation is an ongoing, proactive strategy that drives change and improvement within a company. It involves adapting to market dynamics, gaining a competitive advantage, and prioritizing customer needs through a culture of innovation. This approach boosts efficiency, mitigates risks, attracts top talent, and secures long-term sustainability."
+      },
+      "agileMethodologies": {
+        "title": "Agile Methodologies",
+        "description": "Agility equips a company to thrive in today's fast-paced and uncertain business landscape by enabling rapid adaptation, innovation, and resilience. It allows organizations to effectively respond to changes and seize opportunities, ultimately enhancing their competitiveness and long-term success."
+      },
+      "customerCentricity": {
+        "title": "Customer Centricity",
+        "description": "User-centric approach benefits a company by creating a positive feedback loop: happy customers lead to business growth and success, which, in turn, allows the company to invest in better serving its customers. It's a strategy that can lead to a sustainable and competitive advantage in the market."
+      },
+      "cuttingEdgeTechnologies": {
+        "title": "Cutting edge technologies",
+        "description": "Cutting-edge technologies empower companies with innovation, efficiency, and competitiveness. They enable product innovation, streamlined operations, enhanced customer experiences, market expansion, sustainability, cost management, and new revenue streams. Leveraging these technologies positions companies for growth, resilience, and success in dynamic markets."
+      }
+    
+    
   }
 }
