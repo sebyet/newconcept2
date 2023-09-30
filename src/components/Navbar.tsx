@@ -10,10 +10,10 @@ const menuItems = [
 const Navbar = () => {
   const { t } = useTranslation('translation');
   return (
-    <section className='relative pb-10 bg-coolGray-50 overflow-hidden'>
+    <section className='pb-10 bg-gray-100 fixed overflow-hidden'>
       <nav>
         <div className='container mx-auto'>
-          <div className='flex h-24 items-between'>
+          <div className='flex h-24 items-center'>
             <a className='inline-block' href='/'>
               <img className='h-10' src={logo.src} alt='' />
             </a>
