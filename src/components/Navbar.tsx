@@ -13,7 +13,7 @@ const Navbar = () => {
     <section className='relative pb-10 bg-coolGray-50 overflow-hidden'>
       <nav>
         <div className='container mx-auto'>
-          <div className='flex h-24 items-center'>
+          <div className='flex h-24 items-between'>
             <a className='inline-block' href='/'>
               <img className='h-10' src={logo.src} alt='' />
             </a>

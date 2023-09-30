@@ -4,10 +4,10 @@
       "description": "Voici la description de mon site génial !"
     },
     "navbar": {
-      "about": "Get to know us",
-      "digital": "Unlocking your Digital Potentials",
-      "marketing&sales": "Crafting great Customer Experiences",
-      "businesses": "Elevating your Business Concepts"
+      "about": "Nous connaitre",
+      "digital": "Les potentiels digitals",
+      "marketing&sales": "L'experience client",
+      "businesses": "Elever les concepts"
     },
     "home": {
       "header": {
