@@ -17,7 +17,7 @@ const Header = () => {
                 {t("home.header.customer")}
               </h1>
               <h1 className='font-heading text-blue-500 text-5xl sm:text-7xl mb-4 tracking-tighter'>
-                {t("home.header.business")}
+                {t("home.header.businesses")}
               </h1>
               <div className="mt-10 flex gap-2 flex-wrap">
                 <span className='relative inline-block mb-3 py-2 px-3 text-sm text-black leading-none bg-gray-100 rounded-full'>

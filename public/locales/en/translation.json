@@ -1,13 +1,19 @@
 {
   "site": {
-    "title": "My awesome website!",
-    "description": "Here is the description of my awesome website!"
+    "title": "Mon site génial !",
+    "description": "Voici la description de mon site génial !"
+  },
+  "navbar": {
+    "about": "Get to know us",
+    "digital": "Digital Potentials",
+    "marketing&sales": "Customer Experiences",
+    "businesses": "Business Concepts"
   },
   "home": {
     "header": {
       "digital": "Unlocking Digital Potentials",
       "customer": "Crafting Customer Experiences",
-      "business": "Elevating Business Concepts",
+      "businesses": "Elevating Business Concepts",
       "customerJourney": "Customer Journey",
       "ideaGeneration": "Idea Generation",
       "mvpDevelopment": "MVP Development",
@@ -22,8 +28,8 @@
     "digitalDescription": "We fuse continuous innovation, agile methodology, and a user-centric approach, using the latest tech and strategies to help you stay ahead in the digital race.",
     "customer": "Crafting Customer Experiences",
     "customerDescription": "Utilizing market insight, creativity, and project leadership, we craft customer experiences that propel your company forward.",
-    "business": "Elevating Business Concepts",
-    "businessDescription": "We harness innovation, global insight, and unwavering commitment to take business ideas to new heights and drive success."
+    "businesses": "Elevating Business Concepts",
+    "businessesDescription": "We harness innovation, global insight, and unwavering commitment to take business ideas to new heights and drive success."
   },
   "callToAction": {
     "title": "Ready to Transform? 🚀 Join us on the journey to innovation today!"
@@ -52,7 +58,41 @@
         "title": "Cutting edge technologies",
         "description": "Cutting-edge technologies empower companies with innovation, efficiency, and competitiveness. They enable product innovation, streamlined operations, enhanced customer experiences, market expansion, sustainability, cost management, and new revenue streams. Leveraging these technologies positions companies for growth, resilience, and success in dynamic markets."
       }
-    
-    
+  },
+  "marketingSalesKeyPoints": {  
+      "marketInsight": {
+        "title": "Market Insights",
+        "description": "Market insights provide a deep understanding of industry trends, customer behaviors, and competitive landscapes. By analyzing market data, businesses gain a strategic advantage, enabling them to make informed decisions, identify growth opportunities, and tailor their products or services to meet market demands."
+      },
+      "creativity": {
+        "title": "Creativity",
+        "description": "Creativity is the driving force behind innovation and problem-solving. Fostering a culture of creativity within an organization encourages employees to think outside the box, generate fresh ideas, and find inventive solutions to challenges. It is a key ingredient for staying ahead in today's competitive business world."
+      },
+      "projectLeadership": {
+        "title": "Project Leadership",
+        "description": "Effective project leadership is essential for guiding teams to success. It involves setting clear goals, managing resources efficiently, and ensuring that projects are completed on time and within budget. Strong project leadership results in improved project outcomes and overall business performance."
+      },
+      "customerFeedback": {
+        "title": "Feedbacks",
+        "description": "Customer feedback is a valuable source of insights that helps businesses enhance their products, services, and customer experiences. By actively seeking and listening to customer feedback, companies can make data-driven improvements, strengthen customer relationships, and gain a competitive edge in the market."
+      }
+  },
+  "businesses": {  
+      "innovation": {
+        "title": "Innovation",
+        "description": "Innovation is at the heart of business growth and success. It involves harnessing market insights to gain a deep understanding of industry trends, customer behaviors, and competitive landscapes. By analyzing market data, businesses not only stay ahead of the curve but also gain a strategic advantage. This advantage enables them to make informed decisions, identify growth opportunities, and tailor their products or services to meet the ever-evolving demands of the market"
+      },
+      "globalInsights": {
+        "title": "Global Insights",
+        "description": "Global Insights are vital for businesses aiming to thrive on a global scale. Just as creativity is the driving force behind innovation and problem-solving, a commitment to fostering a culture of creativity within an organization encourages employees to think outside the box, generate fresh ideas, and find inventive solutions to challenges. In today's fiercely competitive business world, global insights and creativity are key ingredients for staying ahead and expanding into new markets."
+      },
+      "commitment": {
+        "title": "Commitment",
+        "description": "Commitment is the cornerstone of effective project leadership within businesses. Successful leaders set clear goals, manage resources efficiently, and ensure that projects are completed on time and within budget. This level of commitment results in improved project outcomes and overall business performance. It's the driving force that keeps teams focused and aligned with the company's objectives."
+      },
+      "agility": {
+        "title": "Agility",
+        "description": "Agility is a core attribute of businesses that excel in the modern market landscape. It involves actively seeking and listening to customer feedback, using it as a valuable source of insights. This customer-centric approach helps businesses enhance their products, services, and overall customer experiences. By making data-driven improvements and maintaining agility, companies can strengthen customer relationships and gain a competitive edge in an ever-changing market."
+      }
   }
 }

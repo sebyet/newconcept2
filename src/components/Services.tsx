@@ -12,7 +12,7 @@ const Services = () => {
         </h1>
         <a
           className='relative group block xl:flex pb-8 mb-10 items-end border-b bg-white rounded-2xl py-10 px-10'
-          href='#'
+          href='/services/digital'
         >
           <div className='mb-8 xl:mb-0'>
             <h3 className='text-4xl xs:text-6xl lg:text-7xl inline-block pb-2 border-b-3 border-transparent group-hover:text-blue-500 transition duration-150'>
@@ -53,7 +53,7 @@ const Services = () => {
         </a>
         <a
           className='relative group block xl:flex pb-8 mb-10 items-end border-b bg-white rounded-2xl py-10 px-10'
-          href='#'
+          href='/services/marketing&sales'
         >
           <div className='mb-8 xl:mb-0'>
             <h3 className='text-4xl xs:text-6xl lg:text-7xl inline-block pb-2 border-b-3 border-transparent group-hover:text-blue-500 transition duration-150'>
@@ -94,16 +94,16 @@ const Services = () => {
         </a>
         <a
           className='relative group block xl:flex pb-8 mb-10 items-end border-b bg-white rounded-2xl py-10 px-10'
-          href='#'
+          href='/services/businesses'
         >
           <div className='mb-8 xl:mb-0'>
             <h3 className='text-4xl xs:text-6xl lg:text-7xl inline-block border-b-3 border-transparent group-hover:text-blue-500 transition duration-150'>
-              {t("services.business")} {/* Replace static text with translation key */}
+              {t("services.businesses")} {/* Replace static text with translation key */}
             </h3>
           </div>
           <div className='max-w-md text-left mb-8 xl:mb-0 ml-auto xl:mr-20'>
             <p>
-              {t("services.businessDescription")} {/* Replace static text with translation key */}
+              {t("services.businessesDescription")} {/* Replace static text with translation key */}
             </p>
           </div>
           <div className='text-right'>
