@@ -10,7 +10,7 @@ const menuItems = [
 const Navbar = () => {
   const { t } = useTranslation('translation');
   return (
-    <section className='pb-10 bg-gray-100 fixed overflow-hidden'>
+    <section className='pb-10 bg-gray-100 relative overflow-hidden'>
       <nav>
         <div className='container mx-auto'>
           <div className='flex h-24 items-center'>
